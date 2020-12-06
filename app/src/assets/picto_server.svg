@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="125.654" height="125.654" viewBox="0 0 125.654 125.654">
+    <defs>
+        <style>
+            .cls-1,.cls-2{fill:#fff}.cls-2{fill-rule:evenodd}.cls-3{filter:url(#Tracé_204)}.cls-4{filter:url(#Tracé_203)}.cls-5{filter:url(#Tracé_202)}.cls-6{filter:url(#Tracé_201)}.cls-7{filter:url(#Tracé_200)}.cls-8{filter:url(#Tracé_199)}
+        </style>
+        <filter id="Tracé_199" width="72.688" height="32.8" x="26.433" y="25.168" filterUnits="userSpaceOnUse">
+            <feOffset/>
+            <feGaussianBlur result="blur" stdDeviation="3"/>
+            <feFlood flood-color="#fff" flood-opacity=".459"/>
+            <feComposite in2="blur" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Tracé_200" width="72.688" height="32.8" x="26.433" y="46.427" filterUnits="userSpaceOnUse">
+            <feOffset/>
+            <feGaussianBlur result="blur-2" stdDeviation="3"/>
+            <feFlood flood-color="#fff" flood-opacity=".459"/>
+            <feComposite in2="blur-2" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Tracé_201" width="72.688" height="32.8" x="26.433" y="67.669" filterUnits="userSpaceOnUse">
+            <feOffset/>
+            <feGaussianBlur result="blur-3" stdDeviation="3"/>
+            <feFlood flood-color="#fff" flood-opacity=".459"/>
+            <feComposite in2="blur-3" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Tracé_202" width="30.469" height="39.359" x="16.361" y="31.694" filterUnits="userSpaceOnUse">
+            <feOffset/>
+            <feGaussianBlur result="blur-4" stdDeviation="3"/>
+            <feFlood flood-color="#fff" flood-opacity=".459"/>
+            <feComposite in2="blur-4" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Tracé_203" width="30.469" height="39.359" x="78.807" y="53.885" filterUnits="userSpaceOnUse">
+            <feOffset/>
+            <feGaussianBlur result="blur-5" stdDeviation="3"/>
+            <feFlood flood-color="#fff" flood-opacity=".459"/>
+            <feComposite in2="blur-5" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Tracé_204" width="125.654" height="125.654" x="0" y="0" filterUnits="userSpaceOnUse">
+            <feOffset/>
+            <feGaussianBlur result="blur-6" stdDeviation="2"/>
+            <feFlood flood-color="#fff" flood-opacity=".651"/>
+            <feComposite in2="blur-6" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g id="Server" transform="translate(6 6)">
+        <g id="Groupe_2" data-name="Groupe 2">
+            <g class="cls-8" transform="translate(-5.999 -6.002)">
+                <path id="Tracé_199-2" d="M2.667 1.692h52.89a.906.906 0 0 1 .9.9v13.017a.892.892 0 0 1-.9.882H2.667a.892.892 0 0 1-.9-.882V2.591a.906.906 0 0 1 .9-.899zM26.856 8.2a.9.9 0 1 0 0 1.8h4.212a.9.9 0 0 0 0-1.8zM16.6 8.2a.9.9 0 0 0 0 1.8h4.212a.9.9 0 1 0 0-1.8zm-10.237 0a.9.9 0 0 0 0 1.8h4.2a.9.9 0 1 0 0-1.8z" class="cls-1" data-name="Tracé 199" transform="translate(33.67 32.48)"/>
+            </g>
+            <g class="cls-7" transform="translate(-5.999 -6.002)">
+                <path id="Tracé_200-2" d="M2.667 2.969h52.89a.9.9 0 0 1 .9.9v13a.9.9 0 0 1-.9.9H2.667a.9.9 0 0 1-.9-.9v-13a.9.9 0 0 1 .9-.9zm24.189 6.509a.891.891 0 1 0 0 1.781h4.212a.891.891 0 1 0 0-1.781zm-10.255 0a.891.891 0 0 0 0 1.781h4.212a.891.891 0 1 0 0-1.781zm-10.238 0a.891.891 0 1 0 0 1.781h4.2a.891.891 0 1 0 0-1.781z" class="cls-1" data-name="Tracé 200" transform="translate(33.67 52.46)"/>
+            </g>
+            <g class="cls-6" transform="translate(-5.999 -6.002)">
+                <path id="Tracé_201-2" d="M2.667 4.245h52.89a.9.9 0 0 1 .9.9v13a.9.9 0 0 1-.9.9H2.667a.9.9 0 0 1-.9-.9v-13a.9.9 0 0 1 .9-.9zm3.7 6.509a.891.891 0 1 0 0 1.781h4.2a.891.891 0 1 0 0-1.781zm10.238 0a.891.891 0 0 0 0 1.781h4.212a.891.891 0 1 0 0-1.781zm10.255 0a.891.891 0 1 0 0 1.781h4.212a.891.891 0 1 0 0-1.781z" class="cls-1" data-name="Tracé 201" transform="translate(33.67 72.42)"/>
+            </g>
+            <g class="cls-5" transform="translate(-5.999 -6.002)">
+                <path id="Tracé_202-2" d="M11.851 23.443a10.679 10.679 0 1 1 0-21.359 1.79 1.79 0 0 1 0 3.579 7.1 7.1 0 1 0 0 14.2 1.79 1.79 0 0 1 0 3.579z" class="cls-2" data-name="Tracé 202" transform="translate(24.2 38.61)"/>
+            </g>
+            <g class="cls-4" transform="translate(-5.999 -6.002)">
+                <path id="Tracé_203-2" d="M6.712 21.2a7.1 7.1 0 0 0 0-14.2 1.79 1.79 0 1 1 0-3.579A10.686 10.686 0 0 1 17.383 14.1a10.576 10.576 0 0 1-3.13 7.541 10.6 10.6 0 0 1-7.541 3.13 1.79 1.79 0 1 1 0-3.579z" class="cls-2" data-name="Tracé 203" transform="translate(82.89 59.47)"/>
+            </g>
+        </g>
+        <g class="cls-3" transform="translate(-6 -6)">
+            <path id="Tracé_204-2" d="M56.819 0A56.827 56.827 0 1 1 0 56.819 56.832 56.832 0 0 1 56.819 0zm0 5.677A51.142 51.142 0 1 1 5.677 56.819 51.144 51.144 0 0 1 56.819 5.677z" class="cls-2" data-name="Tracé 204" transform="translate(6 6)"/>
+        </g>
+    </g>
+</svg>
